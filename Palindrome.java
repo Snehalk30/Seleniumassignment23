@@ -11,7 +11,7 @@
 	        boolean isPalindrome = isPalindrome(input);
 
 	        if (isPalindrome) {
-	            System.out.println("Output: true )");
+	            System.out.println("Output: true ");
 	        } else {
 	            System.out.println("Output: false ");
 	        }
